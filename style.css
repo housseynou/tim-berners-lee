@@ -6,16 +6,17 @@ body {
     width: 620px;
     margin: auto;
 }
-.tim img {
+#tim img {
     border-radius: 50%;
 }
 #tim {
     text-align: center;
     padding: 20px;
 }
-.logo ul li {
-    text-align: center;
+li {
     display: inline-block;
+    text-align: center;
+    
 }
 .button {
     background-color: rgb(253, 85, 55);
