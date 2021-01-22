@@ -6,12 +6,16 @@ body {
     width: 620px;
     margin: auto;
 }
-.corps section img {
+.tim img {
     border-radius: 50%;
 }
 #tim {
     text-align: center;
     padding: 20px;
+}
+.logo ul li {
+    text-align: center;
+    display: inline-block;
 }
 .button {
     background-color: rgb(253, 85, 55);
@@ -43,7 +47,6 @@ h2 {
 .mov {
     padding: 40px 30px 40px 30px;
 }
-.logo {text-align: center;}
 .mov section {
     position: relative;
 }
